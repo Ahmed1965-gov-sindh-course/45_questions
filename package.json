@@ -1,0 +1,25 @@
+{
+  "name": "exercise-42-questions",
+  "version": "1.0.0",
+  "description": "Exercises provided by Sir Zia Khan",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -W"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed1965-gov-sindh-course/exercise-42-questions.git"
+  },
+  "author": "Muhammad Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed1965-gov-sindh-course/exercise-42-questions/issues"
+  },
+  "homepage": "https://github.com/Ahmed1965-gov-sindh-course/exercise-42-questions#readme",
+  "dependencies": {
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
